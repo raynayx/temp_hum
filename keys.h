@@ -1,7 +1,7 @@
 //SSID and password
 #ifndef SSID
-#define SSID "IOT-TEAM"
-#define PWD  "#0h.dear#"
+#define SSID "angler"
+#define PWD  "etor1234"
 #endif
 
 
@@ -13,3 +13,5 @@
 #define SECRET_MQTT_USERNAME "MysXHiAUFB4dMRU8LwgOExI"
 #define SECRET_MQTT_CLIENT_ID "MysXHiAUFB4dMRU8LwgOExI"
 #define SECRET_MQTT_PASSWORD "C7hsG7Tsyazr9EznP6zexLJi"
+#define THUMB_PRINT "271892dda426c30709b97ae6c521b95b48f716e1"
+#define CHANNEL_ID 1446924
